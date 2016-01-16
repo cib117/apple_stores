@@ -1,0 +1,269 @@
+city,street,state
+Birmingham,The Summit,Alabama
+Huntsville,Bridge Street,Alabama
+Anchorage,Anchorage 5th Avenue Mall,Alaska
+Chandler,Chandler Fashion Center,Arizona
+Gilbert,SanTan Village,Arizona
+Glendale,Arrowhead,Arizona
+Phoenix,Biltmore,Arizona
+Scottsdale,Scottsdale Quarter,Arizona
+Tucson,La Encantada,Arizona
+Little Rock,The Promenade at Chenal,Arkansas
+Bakersfield,Valley Plaza,California
+Berkeley,4th Street,California
+Brea,Brea Mall,California
+Burlingame,Burlingame,California
+Canoga Park,Topanga,California
+Carlsbad,Carlsbad,California
+Cerritos,Los Cerritos,California
+Chula Vista,Otay Ranch,California
+Corte Madera,Corte Madera,California
+Costa Mesa,South Coast Plaza,California
+Cupertino,Infinite Loop,California
+Emeryville,Bay Street,California
+Escondido,North County,California
+Fresno,Fashion Fair,California
+Glendale,Glendale Galleria,California
+Glendale,The Americana at Brand,California
+Irvine,Irvine Spectrum Center,California
+Los Angeles,Beverly Center,California
+Los Angeles,Century City,California
+Los Angeles,The Grove,California
+Los Gatos,Los Gatos,California
+Manhattan Beach,Manhattan Village,California
+Mission Viejo,Mission Viejo,California
+Modesto,Vintage Faire,California
+Monterey,Del Monte,California
+Newport Beach,Fashion Island,California
+Northridge,Northridge,California
+Palm Desert,El Paseo Village,California
+Palo Alto,Palo Alto,California
+Palo Alto,Stanford,California
+Pasadena,Pasadena,California
+Pleasanton,Stoneridge Mall,California
+Rancho Cucamonga,Victoria Gardens,California
+Roseville,Roseville,California
+Sacramento,Arden Fair,California
+San Diego,Fashion Valley,California
+San Diego,UTC,California
+San Francisco,Chestnut Street,California
+San Francisco,San Francisco,California
+San Francisco,Stonestown,California
+San Jose,Oakridge,California
+San Luis Obispo,Higuera Street,California
+San Mateo,Hillsdale,California
+Santa Barbara,State Street,California
+Santa Clara,Valley Fair,California
+Santa Monica,Third Street Promenade,California
+Santa Rosa,Santa Rosa Plaza,California
+Sherman Oaks,Sherman Oaks,California
+Simi Valley,Simi Valley,California
+Temecula,Promenade Temecula,California
+Thousand Oaks,The Oaks,California
+Valencia,Valencia Town Center,California
+Walnut Creek,Walnut Creek,California
+Boulder,Twenty Ninth Street,Colorado
+Broomfield,FlatIron Crossing,Colorado
+Colorado Springs,The Promenade Shops at Briargate,Colorado
+Denver,Cherry Creek,Colorado
+Littleton,Aspen Grove,Colorado
+Lone Tree,Park Meadows,Colorado
+Danbury,Danbury Fair Mall,Connecticut
+Farmington,Westfarms,Connecticut
+Greenwich,Greenwich Avenue,Connecticut
+New Haven,New Haven,Connecticut
+South Windsor,Evergreen Walk,Connecticut
+Stamford,Stamford,Connecticut
+Trumbull,Trumbull,Connecticut
+Newark,Christiana Mall,Delaware
+Washington,Georgetown,District of Columbia
+Altamonte Springs,Altamonte,Florida
+Aventura,Aventura,Florida
+Boca Raton,Boca Raton,Florida
+Brandon,Brandon,Florida
+Estero,Coconut Point,Florida
+Fort Lauderdale,The Galleria,Florida
+Jacksonville,St. Johns Town Center,Florida
+Miami,Dadeland,Florida
+Miami,The Falls,Florida
+Miami Beach,Lincoln Road,Florida
+Naples,Waterside Shops,Florida
+Orlando,Florida Mall,Florida
+Orlando,Millenia,Florida
+Palm Beach Gardens,The Gardens Mall,Florida
+Sarasota,University Town Center,Florida
+Tampa,International Plaza,Florida
+Wellington,Wellington Green,Florida
+Alpharetta,North Point,Georgia
+Atlanta,Cumberland Mall,Georgia
+Atlanta,Lenox Square,Georgia
+Atlanta,Perimeter,Georgia
+Augusta,Augusta,Georgia
+Buford,Mall of Georgia,Georgia
+Honolulu,Ala Moana,Hawaii
+Honolulu,Kahala,Hawaii
+Honolulu,Royal Hawaiian,Hawaii
+Boise,Boise Towne Square,Idaho
+Chicago,Lincoln Park,Illinois
+Chicago,North Michigan Avenue,Illinois
+Deer Park,Deer Park,Illinois
+Naperville,Main Place,Illinois
+Northbrook,Northbrook,Illinois
+Oak Brook,Oakbrook,Illinois
+Orland Park,Orland Square Mall,Illinois
+Schaumburg,Woodfield,Illinois
+Skokie,Old Orchard,Illinois
+Indianapolis,The Fashion Mall at Keystone,Indiana
+Mishawaka,University Park Mall,Indiana
+West Des Moines,Jordan Creek,Iowa
+Leawood,Leawood,Kansas
+Lexington,Fayette Mall,Kentucky
+Louisville,Oxmoor,Kentucky
+Baton Rouge,Mall of Louisiana,Louisiana
+Metairie,Lakeside Shopping Center,Louisiana
+South Portland,Maine Mall,Maine
+Annapolis,Annapolis,Maryland
+Bethesda,Bethesda Row,Maryland
+Bethesda,Montgomery Mall,Maryland
+Columbia,Columbia,Maryland
+Towson,Towson Town Center,Maryland
+Boston,Boylston Street,Massachusetts
+Braintree,South Shore,Massachusetts
+Burlington,Burlington,Massachusetts
+Cambridge,CambridgeSide,Massachusetts
+Chestnut Hill,Chestnut Hill,Massachusetts
+Dedham,Legacy Place,Massachusetts
+Hingham,Derby Street,Massachusetts
+Holyoke,Holyoke,Massachusetts
+Marlborough,Solomon Pond Mall,Massachusetts
+Natick,Natick Collection,Massachusetts
+Peabody,Northshore,Massachusetts
+Ann Arbor,Briarwood,Michigan
+Clinton Township,Partridge Creek,Michigan
+Grand Rapids,Woodland,Michigan
+Lansing,Eastwood Towne Center,Michigan
+Novi,Twelve Oaks,Michigan
+Troy,Somerset,Michigan
+Bloomington,Mall of America,Minnesota
+Edina,Southdale,Minnesota
+Minneapolis,Uptown,Minnesota
+Minnetonka,Ridgedale,Minnesota
+Roseville,Rosedale Center,Minnesota
+Ridgeland,Renaissance at Colony Park,Mississippi
+Kansas City,Country Club Plaza,Missouri
+St. Louis,Saint Louis Galleria,Missouri
+St. Louis,West County,Missouri
+Omaha,Village Pointe,Nebraska
+Las Vegas,Fashion Show,Nevada
+Las Vegas,Summerlin,Nevada
+Las Vegas,The Forum Shops,Nevada
+Las Vegas,Town Square,Nevada
+Reno,Summit Sierra,Nevada
+Manchester,The Mall of New Hampshire,New Hampshire
+Nashua,Pheasant Lane,New Hampshire
+Salem,Rockingham Park,New Hampshire
+Atlantic City,The Pier,New Jersey
+Bridgewater,Bridgewater,New Jersey
+Cherry Hill,Cherry Hill,New Jersey
+Edison,Menlo Park,New Jersey
+Freehold,Freehold Raceway Mall,New Jersey
+Lawrence Township,Quaker Bridge,New Jersey
+Marlton,Sagemore,New Jersey
+Paramus,Garden State Plaza,New Jersey
+Rockaway,Rockaway,New Jersey
+Short Hills,Short Hills,New Jersey
+Wayne,Willowbrook,New Jersey
+Woodcliff Lake,Tice's Corner,New Jersey
+Albuquerque,ABQ Uptown,New Mexico
+Albany,Crossgates,New York
+Buffalo,Walden Galleria,New York
+Elmhurst,Queens Center,New York
+Garden City,Roosevelt Field,New York
+Huntington Station,Walt Whitman,New York
+Lake Grove,Smith Haven,New York
+Manhasset,Manhasset,New York
+Nanuet,Nanuet,New York
+New York,Fifth Avenue,New York
+New York,Grand Central,New York
+New York,SoHo,New York
+New York,Upper East Side,New York
+New York,Upper West Side,New York
+New York,West 14th Street,New York
+Staten Island,Staten Island,New York
+Syracuse,Syracuse,New York
+Victor,Eastview,New York
+White Plains,The Westchester,New York
+Yonkers,Ridge Hill,New York
+Charlotte,Northlake Mall,North Carolina
+Charlotte,SouthPark,North Carolina
+Durham,Southpoint,North Carolina
+Greensboro,Friendly Center,North Carolina
+Raleigh,Crabtree Valley Mall,North Carolina
+Akron,Summit Mall,Ohio
+Beavercreek,The Greene,Ohio
+Cincinnati,Kenwood Towne Centre,Ohio
+Columbus,Easton Town Center,Ohio
+Columbus,Polaris Fashion Place,Ohio
+Toledo,Franklin Park Mall,Ohio
+Westlake,Crocker Park,Ohio
+Woodmere,Eton,Ohio
+Oklahoma City,Penn Square,Oklahoma
+Tulsa,Woodland Hills,Oklahoma
+Portland,Pioneer Place,Oregon
+Tigard,Bridgeport Village,Oregon
+Tigard,Washington Square,Oregon
+Ardmore,Suburban Square,Pennsylvania
+King of Prussia,King of Prussia,Pennsylvania
+Lancaster,Park City,Pennsylvania
+Philadelphia,Walnut Street,Pennsylvania
+Pittsburgh,Ross Park,Pennsylvania
+Pittsburgh,Shadyside,Pennsylvania
+Pittsburgh,South Hills Village,Pennsylvania
+Whitehall,Lehigh Valley,Pennsylvania
+Willow Grove,Willow Grove Park,Pennsylvania
+Providence,Providence Place,Rhode Island
+Charleston,King Street,South Carolina
+Greenville,Haywood Mall,South Carolina
+Franklin,CoolSprings Galleria,Tennessee
+Germantown,Saddle Creek,Tennessee
+Knoxville,West Town Mall,Tennessee
+Nashville,Green Hills,Tennessee
+Austin,Barton Creek,Texas
+Austin,The Domain,Texas
+Dallas,Knox Street,Texas
+Dallas,NorthPark Center,Texas
+El Paso,Cielo Vista Mall,Texas
+Fort Worth,University Park Village,Texas
+Friendswood,Baybrook,Texas
+Frisco,Stonebriar,Texas
+Houston,Highland Village,Texas
+Houston,Houston Galleria,Texas
+Houston,Memorial City,Texas
+Houston,Willowbrook Mall,Texas
+Plano,Willow Bend,Texas
+San Antonio,La Cantera,Texas
+San Antonio,North Star,Texas
+Southlake,Southlake Town Square,Texas
+Sugar Land,First Colony Mall,Texas
+The Woodlands,The Woodlands,Texas
+Farmington,Station Park,Utah
+Murray,Fashion Place,Utah
+Salt Lake City,City Creek Center,Utah
+Arlington,Clarendon,Virginia
+Arlington,Pentagon City,Virginia
+Fairfax,Fair Oaks,Virginia
+McLean,Tysons Corner,Virginia
+Norfolk,MacArthur Center,Virginia
+Reston,Reston,Virginia
+Richmond,Short Pump Town Center,Virginia
+Virginia Beach,Lynnhaven Mall,Virginia
+Woodbridge,Potomac Town Center,Virginia
+Bellevue,Bellevue Square,Washington
+Lynnwood,Alderwood Mall,Washington
+Seattle,University Village,Washington
+Spokane,River Park Square,Washington
+Tacoma,Tacoma Mall,Washington
+Tukwila,Southcenter,Washington
+Glendale,Bayshore,Wisconsin
+Madison,West Towne,Wisconsin
+Wauwatosa,Mayfair,Wisconsin
