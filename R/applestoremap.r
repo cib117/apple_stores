@@ -91,7 +91,7 @@ choropleth_breaks <-(cut(choropleth$medhouseincome,
                          breaks = c(seq(20000, 70000, by = 10000), 120000)))
 palette(brewer.pal(6, "BuGn")) ## Blue Green palette
 
-pdf('figures/map.pdf', width = 11,height = 7)
+png('figures/map.png', width = 11,height = 7, units = 'in', res = 300)
 par(mar = c(1, 1, 1, 1) + 0.1)#set plot paramaters c(bottom, left, top, right) 
 layout(matrix(1:2, nrow = 1), widths = c(0.95, 0.05)) ## Matrix to combine map and legend
 plot(c(-125,-65), c(25,50), type = 'n', xlab = "", ylab = "",axes = F) ## Exclude Alaska, islands
