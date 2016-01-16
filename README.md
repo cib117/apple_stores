@@ -13,3 +13,5 @@ This repository contains code to scrape, parse, and map the location of US apple
 `figures/`: Contains map
 
 `shapefile/`: Contains county-level map of US
+
+<img src='figures/map.pdf'>
