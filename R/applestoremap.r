@@ -73,7 +73,7 @@ income <- select(income,State.FIPS.Code, County.FIPS.Code, Postal.Code, Name,
                  Poverty.Percent..All.Ages, Median.Household.Income)
 ## convert povery and household income from char to num
 income$poverty <-  as.numeric(income$Poverty.Percent..All.Ages)
-income$medhouseincome <- as.numeric(str_replace(income$Median.Household.Income, ", ", ""))
+income$medhouseincome <- as.numeric(str_replace(income$Median.Household.Income, ",", ""))
 ## Create one fips variable by concatenating the state and country codes
 income$fips <- paste(income$State.FIPS.Code, income$County.FIPS.Code,sep='')
 ########################################################################################
