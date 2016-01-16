@@ -8,7 +8,7 @@ This repository contains code to scrape, parse, and map the location of US apple
 
 `R/`: Contains code to create map
 
-`data/`: Contains data on apple store locations and county-level income
+`data/`: Contains apple store location and county-level household income data
 
 `figures/`: Contains map
 
